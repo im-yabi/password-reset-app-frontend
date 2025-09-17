@@ -14,12 +14,3 @@ It provides a beautifully styled login UI with animations, meant to integrate wi
 - Styled inputs, clear visuals, gradient/buttons for visual appeal  
 
 ---
-
-## 🛠 Installation / Development
-
-To run this locally:
-
-1. Clone the repo  
-   ```bash
-   git clone <your-frontend-repo-url>
-   cd your-frontend-repo
